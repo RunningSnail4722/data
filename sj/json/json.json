@@ -1,0 +1,11 @@
+[{"blist":[
+{"authorName":"aaa","bid":1,"bname":"从入门到精通JAVA开发","description":"java开发介绍","order":100,"price":34.2},
+{"authorName":"bbb","bid":2,"bname":"从入门到精通C++开发","description":"c++开发介绍","order":110,"price":35.2},
+{"authorName":"ccc","bid":3,"bname":"从入门到精通PHP开发","description":"php开发介绍","order":130,"price":33.2},
+{"authorName":"ddd","bid":4,"bname":"从入门到精通C开发","description":"c语言开发介绍","order":200,"price":31.2},
+{"authorName":"eee","bid":5,"bname":"从入门到精通PYTHON开发","description":"python开发介绍","order":500,"price":30.2}],
+"id":1,"name":"书","tag":"BOOK","title":"图书分类","url":"../list1.js?aaa=sd&as "},
+{"blist":[],"id":2,"name":"食物","tag":"FOOD","title":"食物分类"},
+{"blist":[],"id":3,"name":"家具","tag":"FURNITURE","title":"家具分类"},
+{"blist":[],"id":4,"name":"家电","tag":"APPLIANCES","title":"家电分类"},
+{"blist":[],"id":5,"name":"日化","tag":"DAYUSE","title":"日化分类"}]

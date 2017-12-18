@@ -1,0 +1,316 @@
+[
+    {
+        "alist": [
+            {
+                "aid": 1,
+                "aname": "电视",
+                "description": "good",
+                "order": 100,
+                "price": 2000,
+                "vender": "索尼"
+            },
+            {
+                "aid": 2,
+                "aname": "ps4",
+                "description": "good",
+                "order": 200,
+                "price": 3400,
+                "vender": "索尼"
+            },
+            {
+                "aid": 3,
+                "aname": "电脑",
+                "description": "good",
+                "order": 300,
+                "price": 8000,
+                "vender": "apple"
+            },
+            {
+                "aid": 4,
+                "aname": "空调",
+                "description": "good",
+                "order": 400,
+                "price": 2000,
+                "vender": "格力"
+            },
+            {
+                "aid": 5,
+                "aname": "吊灯",
+                "description": "good",
+                "order": 600,
+                "price": 1500,
+                "vender": "宜家"
+            }
+        ],
+        "blist": [],
+        "dlist": [],
+        "flist": [],
+        "fulist": [],
+        "id": 4,
+        "name": "家电",
+        "tag": "APPLIANCES",
+        "title": "家电分类"
+    },
+    
+    
+    
+    {
+        "alist": [],
+        "blist": [
+            {
+                "authorName": "aaa",
+                "bid": 1,
+                "bname": "从入门到精通JAVA开发",
+                "description": "java开发介绍",
+                "order": 100,
+                "price": 34.2
+            },
+            {
+                "authorName": "bbb",
+                "bid": 2,
+                "bname": "从入门到精通C++开发",
+                "description": "c++开发介绍",
+                "order": 110,
+                "price": 35.2
+            },
+            {
+                "authorName": "ccc",
+                "bid": 3,
+                "bname": "从入门到精通PHP开发",
+                "description": "php开发介绍",
+                "order": 130,
+                "price": 33.2
+            },
+            {
+                "authorName": "ddd",
+                "bid": 4,
+                "bname": "从入门到精通C开发",
+                "description": "c语言开发介绍",
+                "order": 200,
+                "price": 31.2
+            },
+            {
+                "authorName": "eee",
+                "bid": 5,
+                "bname": "从入门到精通PYTHON开发",
+                "description": "python开发介绍",
+                "order": 500,
+                "price": 30.2
+            }
+        ],
+        "dlist": [],
+        "flist": [],
+        "fulist": [],
+        "id": 1,
+        "name": "书",
+        "tag": "BOOK",
+        "title": "图书分类"
+    },
+    
+    
+    
+    {
+        "alist": [],
+        "blist": [],
+        "dlist": [
+            {
+                "description": "good",
+                "did": 1,
+                "dname": "肥皂",
+                "order": 100,
+                "price": 2,
+                "vender": "舒肤佳"
+            },
+            {
+                "description": "good",
+                "did": 2,
+                "dname": "洗衣液",
+                "order": 200,
+                "price": 10,
+                "vender": "舒肤佳"
+            },
+            {
+                "description": "good",
+                "did": 3,
+                "dname": "洗衣粉",
+                "order": 300,
+                "price": 22,
+                "vender": "舒肤佳"
+            },
+            {
+                "description": "good",
+                "did": 4,
+                "dname": "洗发水",
+                "order": 400,
+                "price": 54,
+                "vender": "舒肤佳"
+            },
+            {
+                "description": "good",
+                "did": 5,
+                "dname": "护发素",
+                "order": 600,
+                "price": 60,
+                "vender": "舒肤佳"
+            }
+        ],
+        "flist": [],
+        "fulist": [],
+        "id": 5,
+        "name": "日化",
+        "tag": "DAYUSE",
+        "title": "日化分类"
+    },
+    
+    
+    
+    
+    {
+        "alist": [],
+        "blist": [],
+        "dlist": [],
+        "flist": [
+            {
+                "description": "好吃",
+                "fid": 1,
+                "fname": "薯片",
+                "order": 2000,
+                "price": 6,
+                "vender": "乐事"
+            },
+            {
+                "description": "好喝",
+                "fid": 2,
+                "fname": "可乐",
+                "order": 5000,
+                "price": 3,
+                "vender": "百事"
+            },
+            {
+                "description": "好吃",
+                "fid": 3,
+                "fname": "巧克力",
+                "order": 6000,
+                "price": 15,
+                "vender": "费列罗"
+            },
+            {
+                "description": "好吃",
+                "fid": 4,
+                "fname": "POKY",
+                "order": 7000,
+                "price": 6,
+                "vender": "百奇"
+            },
+            {
+                "description": "好喝",
+                "fid": 5,
+                "fname": "咖啡",
+                "order": 2000,
+                "price": 34,
+                "vender": "雀巢"
+            }
+        ],
+        "fulist": [
+            {
+                "description": "",
+                "fid": 1,
+                "fname": "薯片",
+                "order": 2000,
+                "price": 6,
+                "vender": ""
+            },
+            {
+                "description": "",
+                "fid": 2,
+                "fname": "可乐",
+                "order": 5000,
+                "price": 3,
+                "vender": ""
+            },
+            {
+                "description": "",
+                "fid": 3,
+                "fname": "巧克力",
+                "order": 6000,
+                "price": 15,
+                "vender": ""
+            },
+            {
+                "description": "",
+                "fid": 4,
+                "fname": "POKY",
+                "order": 7000,
+                "price": 6,
+                "vender": ""
+            },
+            {
+                "description": "",
+                "fid": 5,
+                "fname": "咖啡",
+                "order": 2000,
+                "price": 34,
+                "vender": ""
+            }
+        ],
+        "id": 2,
+        "name": "食物",
+        "tag": "FOOD",
+        "title": "食物分类"
+    },
+    
+    
+    
+    {
+        "alist": [],
+        "blist": [],
+        "dlist": [],
+        "flist": [],
+        "fulist": [
+            {
+                "description": "good",
+                "fid": 0,
+                "fname": "",
+                "order": 0,
+                "price": 0,
+                "vender": "宜家"
+            },
+            {
+                "description": "good",
+                "fid": 0,
+                "fname": "",
+                "order": 0,
+                "price": 0,
+                "vender": "宜家"
+            },
+            {
+                "description": "good",
+                "fid": 0,
+                "fname": "",
+                "order": 0,
+                "price": 0,
+                "vender": "宜家"
+            },
+            {
+                "description": "good",
+                "fid": 0,
+                "fname": "",
+                "order": 0,
+                "price": 0,
+                "vender": "宜家"
+            },
+            {
+                "description": "good",
+                "fid": 0,
+                "fname": "",
+                "order": 0,
+                "price": 0,
+                "vender": "宜家"
+            }
+        ],
+        "id": 3,
+        "name": "家具",
+        "tag": "FURNITURE",
+        "title": "家具分类"
+    }
+]

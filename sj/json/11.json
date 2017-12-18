@@ -1,0 +1,60 @@
+[
+    {
+        "pageError": "",
+        "pageId": 1,
+        "pageLsit": [
+            {
+                "pageEntityId": 2,
+                "pageEntityName": "商场",
+                "pageEntityTag": "SHOP",
+                "pageEntityTitle": "商场分类",
+                "shopList": [
+                    {
+                        "entityName": "书",
+                        "entityTitle": "图书分类",
+                        "sid": 1
+                    },
+                    {
+                        "entityName": "食物",
+                        "entityTitle": "食物分类",
+                        "sid": 2
+                    },
+                    {
+                        "entityName": "家具",
+                        "entityTitle": "家具分类",
+                        "sid": 3
+                    },
+                    {
+                        "entityName": "家电",
+                        "entityTitle": "家电分类",
+                        "sid": 4
+                    }
+                ]
+            },
+            {
+                "pageEntityId": 3,
+                "pageEntityName": "医院",
+                "pageEntityTag": "HOSPITAL",
+                "pageEntityTitle": "医院分类",
+                "shopList": []
+            },
+            {
+                "pageEntityId": 4,
+                "pageEntityName": "写字楼",
+                "pageEntityTag": "COMPANY",
+                "pageEntityTitle": "写字楼分类",
+                "shopList": []
+            },
+            {
+                "pageEntityId": 5,
+                "pageEntityName": "公园",
+                "pageEntityTag": "PARK",
+                "pageEntityTitle": "公园分类",
+                "shopList": []
+            }
+        ],
+        "pageMessage": "第一次加载的页面",
+        "pageName": "欢迎页面",
+        "pageTitle": "welcome"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CATALOG>
+  <CD>
+   	<Img type="gif">img/rj.png</IMG>
+    <ARTIST>xx管理</ARTIST>
+    <COUNTRY><img type="jpg">img/gj.png</img>123213</COUNTRY>
+    <COMPANY><img type="png">img/gj.png</img>123213</COMPANY>
+    <PRICE><img type="png">img/gj.png</img>123213</PRICE>
+    <YEAR><img type="png">img/gj.png</img>123213</YEAR>
+  </CD>
+  <CD>
+    <TITLE><img type="png">img/rj.png</img></TITLE>
+    <ARTIST>xx管理</ARTIST>
+    <COUNTRY><img type="png">img/gj.png</img>123213</COUNTRY>
+    <COMPANY><img type="png">img/gj.png</img>123213</COMPANY>
+    <PRICE><img type="png">img/gj.png</img>123213</PRICE>
+    <YEAR><img type="png">img/gj.png</img>123213</YEAR>
+  </CD>
+</CATALOG>

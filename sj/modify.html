@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/lists.css" />
+		<script type="text/javascript" src="js/jquery-1.8.2.js" ></script>
+		<title></title>
+	</head>
+	<body>
+
+		<script>
+		var json = [{dd:'SB',AA:'东东',re1:123},{cccc:'dd',lk:'1qw'}];
+		var s=document.getElementById("s");
+		for(var i=0,l=json.length;i<l;i++){
+			for(var key in json[i]){
+				alert(key);
+				s.innerHTML+=key;
+			}
+		}
+		</script>
+		<div id="s"></div>
+	</body>
+</html>

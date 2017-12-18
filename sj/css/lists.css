@@ -1,0 +1,92 @@
+body,ul{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+
+/*左部*/
+.list{
+	width: 960px;
+}
+.list .right1 .top{
+	width: 960px;
+	line-height: 42px;
+	font-size: 18px;
+	background: #f5f5f5;
+}
+.list .right1 .top button{
+	margin-left: 10px;
+	height: 30px;
+    width: 50px;
+    border-radius: 6px;
+	background: #3FABE9;
+	color: #FFFFFF;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.list .right1 .r{
+	width: 860px;
+	margin: 20px auto;
+	text-align: center;
+}
+.list .right1 input{
+	width: 234px;
+	margin: 10px 20px 10px 20px;
+}
+.list .right1 .sp{
+	display: inline-block;
+	width: 400px;
+	height: 30px;
+}
+.list .right1 .r button{
+	height: 30px;
+    width: 70px;
+    margin: 10px 10px;
+    border-radius: 6px;
+	background: #3FABE9;
+	color: #FFFFFF;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.rcontent table{
+	text-align: left;
+	width: 100%;
+	font-size:11px;
+	color:#333333;
+	border: 1px #F5F5F5 solid;
+	border-radius: 10px;
+	border-collapse:collapse;  
+    border-spacing:0;
+}
+.rcontent .h3{
+	margin: 0;
+	font-size: 16px;
+    font-weight: bold;;
+}
+.rcontent table .tr{
+	background-image: -webkit-linear-gradient(top,#ffffff,#f5f5f5);
+}
+.rcontent table th:first-child{
+	width: 20px;
+}
+.rcontent table .inp{
+	width: 20px;
+	text-align: center;
+	margin: 0 auto;
+}
+.rcontent table th{
+	height: 30px;
+	font-size: 14px;  
+	border:1px solid #dddddd;
+}
+.rcontent table td{
+	border:1px solid #dddddd;
+}
+.rcontent table td a{
+	margin-right: 10px;
+}
